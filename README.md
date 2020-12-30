@@ -66,7 +66,7 @@ $\{this.props.primary_skills\}`);
     return (\
       <div className="App">\
         <header>\
-          <h1 className="App-title">Welcome to SkillClusters!</h1>\
+          <h1 className="App-title">Welcome to SkillMATH!</h1>\
         </header>\
         \{\
           this.props.primary_skills.map((primarySkill, ind) => \{\
